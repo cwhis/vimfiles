@@ -17,3 +17,7 @@ git submodule init
 git submodule update
 git submodule foreach "git checkout master && git pull"
 git submodule add git://github.com:username/plugin.git bundle/plugin
+
+
+
+.gitmodule文件是我自己使用的插件
